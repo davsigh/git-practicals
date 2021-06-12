@@ -2,3 +2,5 @@ sixth file
 new comments
 test new comments
 test new comment with existing comment
+Now testing the --amend parameter
+add new line to test --amend 
